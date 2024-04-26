@@ -217,6 +217,7 @@ img {
 	font-size: 20px;
 	font-weight: 400;
 	color: #3F4145;
+	font-family: "Roboto", sans-serif
 
 }
 
@@ -229,14 +230,15 @@ img {
 .paragraph2 {
 	width: 335px;
 	height: 95px;
-	font-size: 16px;
+	font-size: 17px;
 	font-weight: 400;
 	color: #7E8898;
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 37px;
 	margin-top: 20px;
-	line-height: 19.31px;
+	font-family: "Roboto", sans-serif
+	line-height: 18.75px;
 }
 
 .logo3 {
@@ -248,14 +250,15 @@ img {
 .paragraph3 {
 	width: 335px;
 	height: 95px;
-	font-size: 16px;
+	font-size: 17px;
 	font-weight: 400;
 	color: #7E8898;
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 21px;
 	margin-top: 15px;
-	line-height: 19.31px;
+	font-family: "Roboto", sans-serif
+	line-height: 18.75px;
 }
 
 .paragraph4 {
