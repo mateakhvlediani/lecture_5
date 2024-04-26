@@ -1,11 +1,8 @@
-/*es aris pirveli ori pageis css*/
-
-body {
-	padding: 54px 52px;
-}
+/*es css mxolod contacts page-stvis aris */
+/*titqmis yvelaferi igivea rac style.css shi ubralod amas body da bodyshi padding araaq*/
 
 header {
-	margin-bottom: 44px;
+	margin-bottom: 31px;
 }
 
 .header2 {
@@ -21,19 +18,14 @@ ul {
 }
 
 nav {
+	padding-top: 54px;
 	display: inline-block;
 	vertical-align: middle;
 }
 
-img {
-	vertical-align: middle;
-}
-
-.facebook {
-	vertical-align: middle;
-}
-
-.youtube {
+.logo5 {
+	padding-top: 54px;
+	padding-left: 52px;
 	vertical-align: middle;
 }
 
@@ -134,8 +126,8 @@ img {
 	display: inline-block;
 	border: solid 1px;
 	height: 45px;
-	vertical-align: middle;
-	margin: 0 41px;
+	vertical-align: top;
+	margin: 2px 41px;
 }
 
 .line2 {
@@ -172,10 +164,6 @@ img {
 	font-weight: 400;
 	color: #4E6FAE;
 	margin-bottom: 26px;
-}
-
-.facebook {
-	margin-left: 262px;
 }
 
 .square {
@@ -246,7 +234,52 @@ img {
 }
 
 .paragraph4 {
-	width: 1660px;
-	height: 735px;
-	background-color: #E7E7E7;
+    padding: 93px 162px;
+    padding-right: 40px;
+    width: 1660px;
+    height: 735px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #4E6FAE;
+    background-color: #E7E7E7;
+    display: inline-block;
+    line-height: 1.2;
+}
+
+.footer {
+	margin-left: 96px;
+	margin-top: 104px;
+}
+
+p {
+	font-size: 20px;
+	font-weight: 400;
+	color: #3F4145;
+	display: inline-block;
+}
+
+.gray {
+	font-size: 20px;
+	font-weight: 400;
+	color: #7E8898;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.text {
+	font-size: 20px;
+	font-weight: 400;
+	color: #3F4145;
+	display: inline-block;
+}
+
+.sakinfo {
+	display: inline;
+}
+
+.map {
+	vertical-align: middle;
+	float: right;
+	width: 944px;
+	height: 529px;
 }
