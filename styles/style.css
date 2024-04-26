@@ -128,6 +128,19 @@ img {
 	font-weight: 400;
 	color: #4E6FAE;
 	line-height: 19px;
+	font-family: "BPG Square", sans-serif;
+}
+
+.paragraph1 {
+	width: 778px;
+	display: inline-block;
+	margin-left: 66px;
+	vertical-align: top;
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+	line-height: 19px;
+	font-family: "BPG Nostalgia", sans-serif;
 }
 
 .line {
